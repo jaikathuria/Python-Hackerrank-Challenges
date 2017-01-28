@@ -1,4 +1,5 @@
 # Python-HackerRank-Challenges
+## This Repo is a collection of all the Solutions to the Problems in [Hackerank Python Challenge](https://www.hackerrank.com/domains/python).
 
         *    
        ***   
@@ -50,4 +51,7 @@
              .==========+++.  .++           
               ,=======++++++,,++,           
               ..=====+++++++++=.            
-                    ..~+=... 
+                    ..~+=...
+
+
+* If you find this repo helpful please don't forget to star is repo *
