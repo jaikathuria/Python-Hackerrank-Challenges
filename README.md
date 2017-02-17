@@ -1,5 +1,6 @@
 # Python-HackerRank-Challenges
-## This Repo is a collection of all the Solutions to the Problems in [Hackerank Python Challenge](https://www.hackerrank.com/domains/python).
+## This Repo is a collection of all the Solutions to the Problems in
+[Hackerank Python Challenge](https://www.hackerrank.com/domains/python)
 
         *    
        ***   
